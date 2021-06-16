@@ -14,7 +14,7 @@ jobs:
     - uses: actions/setup-dotnet@v1
       with:
         dotnet-version: '3.0.100'
-    - uses: lauchacarro/Azure-Storage-Action@master
+    - uses: lauchacarro/Azure-Storage-Action@1.0
       with:
         enabled-static-website: 'true'
         folder: 'Test_html'
