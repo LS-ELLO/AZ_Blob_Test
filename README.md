@@ -1,5 +1,7 @@
 # AZ_Blob_Test
 
+Azure Blob Storage에 html파일을 업로드 하는 예제입니다.
+
 ## 결과화면 👏
 <img src="https://github.com/LS-ELLO/AZ_Blob_Test/blob/main/img/1.PNG?raw=true">
 <img src="https://github.com/LS-ELLO/AZ_Blob_Test/blob/main/img/2.PNG?raw=true">
